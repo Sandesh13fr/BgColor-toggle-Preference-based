@@ -1,7 +1,3 @@
-Here is a generated README for your repository:
-
----
-
 # BgColor-toggle-Preference-based
 
 A simple project to toggle background color based on user preference.
